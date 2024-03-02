@@ -1,3 +1,5 @@
+#TODO: Compare split datasets and document difference/intuition
+"""
 Property Age: The slightly lower mean age in the first part suggests it contains somewhat newer properties on average 
 compared to the second part. This could imply a minor difference in potential property value due to age.
 
@@ -21,3 +23,5 @@ The two dataset splits are well-balanced across key features, making them suitab
 training/testing. The minor differences observed align with intuitive expectations 
 about the impact of age, proximity to MRT stations, and urban conveniences on property prices. 
 These insights affirm the dataset's integrity for conducting comprehensive real estate market analyses.
+
+"""
